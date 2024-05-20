@@ -17,22 +17,4 @@ DIGIEFFECT has the following broad research objectives:
 # Analyses
 ## European party website articles on digital campaign/ing
 ### LDA Topic Model Visualisation
-[Uploa<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>LDAvis</title>
-    <script src="d3.v3.js"></script>
-    <script src="ldavis.js"></script>
-    <link rel="stylesheet" type="text/css" href="lda.css">
-  </head>
 
-  <body>
-    <div id = "lda"></div>
-    <script>
-      var vis = new LDAvis("#lda", "lda.json");
-    </script>
-  </body>
-
-</html>
-ding index.html…]()
